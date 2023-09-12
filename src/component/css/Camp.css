@@ -1,0 +1,40 @@
+.camp{
+    color: black;
+    background-image : url(./th5.jpg);
+}
+h1{
+    text-align: center;
+}
+.hi,nav,.new{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:black;
+}
+  
+div{
+    color: violet;
+    font-size: smaller;
+}
+  
+button{
+    font-size: medium;
+    font-style: oblique;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+#contactUs{
+    font-size: xx-large;
+}
+h3{
+    color: blue;
+}
+
+
+
+

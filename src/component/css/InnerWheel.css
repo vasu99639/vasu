@@ -1,0 +1,40 @@
+.innerwheel{
+    background-image: url(../../asets/dharani_31.jpg);
+}
+
+h1{
+    text-align: center;
+}
+.hi,nav,.new{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:black;
+}
+  
+div{
+    color: #fff;
+    font-size: smaller;
+}
+  
+button{
+    font-size: medium;
+    font-style: oblique;
+    margin-top: 15px;
+    margin-left: 50px;
+    
+}
+body{
+    background-size: cover;
+}
+#contactUs{
+    font-size: xx-large;
+}
+h3{
+    color: black;
+}
+
